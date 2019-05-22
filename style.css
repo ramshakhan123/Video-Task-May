@@ -1,0 +1,200 @@
+body {
+    background-color: black;
+}
+
+ div {
+    display: inline-block;
+}
+
+.icon {
+    font-size: 100px;
+    color: #f9ff00;
+    margin:0.4em;
+}
+
+span {
+    font-size: 60px;
+    color: #212121;
+    
+}
+
+
+:nth-child(2):hover  {
+    color: palevioletred;
+    transition: 0.5s;
+    
+}
+
+:nth-child(2):hover + :nth-child(3) {
+         color: pink;
+         transition: 0.5s;
+}
+
+:nth-child(3):hover {
+    color: palevioletred;
+    transition: 0.5s;
+} 
+
+:nth-child(3):hover + :nth-child(4) {
+    color: pink;
+    transition: 0.5s;
+}
+
+:nth-child(4):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(4):hover + :nth-child(5) {
+    color:pink;
+    transition: 0.5s;
+}
+
+:nth-child(5):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(5):hover + :nth-child(6) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(6):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(6):hover + :nth-child(7) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(7):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(7):hover + :nth-child(8) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(8):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(8):hover + :nth-child(9) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(9):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(9):hover + :nth-child(10) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(10):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(10):hover + :nth-child(11) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(11):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(11):hover + :nth-child(12) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(12):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(12):hover + :nth-child(13) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(13):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(13):hover + :nth-child(14) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+:nth-child(14):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(14):hover + :nth-child(15) {
+    color: pink;
+    transition: 0.5s;
+}
+
+:nth-child(15):hover {
+    color: palevioletred;
+    transition: 0.5s;
+}
+
+:nth-child(15):hover + :nth-child(16) {
+    color: pink;
+    transition: 0.5s;
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
